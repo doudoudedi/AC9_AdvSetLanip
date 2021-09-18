@@ -16,15 +16,7 @@ In Tenda AC9 ,firemware is US_AC9V3.0RTL_V15.03.06.42_multi_TD01.bin， In the o
 
 #### Detail
 
-<img src="./img/image-20210917185312226.png" alt="image-20210917185312226" style="zoom:50%;" />
-
-then
-
-<img src="./img/image-20210917185355661.png" alt="image-20210917185355661" style="zoom:50%;" />
-
 <img src="./img/image-20210917193316992.png" alt="image-20210917193316992" style="zoom:50%;" />
-
- Stack overflow occurs here 
 
 #### TEST
 
